@@ -1,0 +1,72 @@
+meta   
+{
+	title: "Contenedores de reciclaje";
+	author: "Daniel Capilla"; 
+	version: "1.0_2022-03-21"; 
+	description: "Tipo de contenedor por material de recogida";
+        link: "";
+}
+meta[lang=en]
+{
+        title: "Recycling Containers";
+        description: "Type of container per collection waste";
+        link: "";
+}
+
+node[recycling:paper=yes],
+node[recycling:magazines=yes],
+node[recycling:cardboard=yes],
+node[recycling:newspaper=yes],
+node[recycling:paper_packaging=yes],
+node[recycling:batteries=yes],
+node[recycling:cooking_oil=yes] ,
+node[recycling:plastic_packaging=yes],
+node[recycling:plastic_bottles=yes],
+node[recycling:cans=yes],
+node[recycling:glass_bottles=yes],
+node[recycling:clothes=yes] 
+{
+	text-color: black; 
+	font-size: 12;
+	text-anchor-horizontal: center;
+    	text-anchor-vertical: below;
+	text-halo-color: white; 
+	text-halo-radius:2
+}
+	
+node[recycling:paper=yes],
+node[recycling:magazines=yes],
+node[recycling:cardboard=yes],
+node[recycling:newspaper=yes],
+node[recycling:paper_packaging=yes]
+{
+	text: eval("Papel");
+}
+
+node[recycling:batteries=yes] 
+{
+	text: eval("Pilas");
+}
+
+node[recycling:plastic_packaging=yes],
+node[recycling:plastic_bottles=yes],
+node[recycling:cans=yes]
+{
+	text: eval("Plástico");
+}
+
+node[recycling:glass_bottles=yes]
+{
+
+	text: eval("Vidrio");
+}
+
+node[recycling:clothes=yes] 
+{
+	text: eval("Ropa");
+}
+
+node[recycling:cooking_oil=yes] 
+{
+	text: eval("Aceite");
+}

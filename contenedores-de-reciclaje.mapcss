@@ -4,13 +4,13 @@ meta
 	author: "Daniel Capilla"; 
 	version: "1.0_2022-03-21"; 
 	description: "Tipo de contenedor por material de recogida";
-        link: "";
+        link: "https://www.openstreetmap.org/user/dcapillae/diary/398842";
 }
 meta[lang=en]
 {
         title: "Recycling Containers";
         description: "Type of container per collection waste";
-        link: "";
+        link: "https://www.openstreetmap.org/user/dcapillae/diary/398842";
 }
 
 node[recycling:paper=yes],

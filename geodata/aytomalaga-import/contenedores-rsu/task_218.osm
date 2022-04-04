@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+
+<changeset>
+  <tag k="comment" v="Importación de contenedores de residuos sólidos urbanos a partir de datos abiertos del Ayuntamiento de Málaga."/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/ES:Importación_de_datos_abiertos_del_Ayuntamiento_de_Málaga"/>
+  <tag k="source" v="Datos abiertos del Ayuntamiento de Málaga"/>
+  <tag k="source:url" v="https://datosabiertos.malaga.eu"/>
+  <tag k="source:date" v="2022-02-24"/>
+  <tag k="type" v="import"/>
+</changeset>
+
+  <node id='-102413' lat='36.75901295' lon='-4.49204162'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102414' lat='36.75834677' lon='-4.49610042'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102415' lat='36.76063851' lon='-4.49694802'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102416' lat='36.75837149' lon='-4.49612725'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102417' lat='36.7583594' lon='-4.49611484'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102418' lat='36.76062159' lon='-4.49693628'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102419' lat='36.7589834' lon='-4.49205269'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102420' lat='36.75889366' lon='-4.49673611'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102421' lat='36.76003066' lon='-4.49705195'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102422' lat='36.75896738' lon='-4.49680326'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102423' lat='36.76287404' lon='-4.49739597'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102424' lat='36.76010238' lon='-4.49704323'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102425' lat='36.75998688' lon='-4.49702043'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+</osm>

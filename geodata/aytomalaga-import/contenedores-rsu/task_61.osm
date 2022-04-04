@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+
+<changeset>
+  <tag k="comment" v="Importación de contenedores de residuos sólidos urbanos a partir de datos abiertos del Ayuntamiento de Málaga."/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/ES:Importación_de_datos_abiertos_del_Ayuntamiento_de_Málaga"/>
+  <tag k="source" v="Datos abiertos del Ayuntamiento de Málaga"/>
+  <tag k="source:url" v="https://datosabiertos.malaga.eu"/>
+  <tag k="source:date" v="2022-02-24"/>
+  <tag k="type" v="import"/>
+</changeset>
+
+  <node id='-103087' lat='36.71676653' lon='-4.42155906'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='5,' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-103088' lat='36.7167797' lon='-4.4215946'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='5,' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-103089' lat='36.71675954' lon='-4.42158689'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='5,' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-103090' lat='36.71654857' lon='-4.42099413'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='5,' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-103091' lat='36.71775931' lon='-4.42111652'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='5,' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-103092' lat='36.7177671' lon='-4.42108634'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='5,' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+</osm>

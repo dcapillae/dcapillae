@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+
+<changeset>
+  <tag k="comment" v="Importación de contenedores de residuos sólidos urbanos a partir de datos abiertos del Ayuntamiento de Málaga."/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/ES:Importación_de_datos_abiertos_del_Ayuntamiento_de_Málaga"/>
+  <tag k="source" v="Datos abiertos del Ayuntamiento de Málaga"/>
+  <tag k="source:url" v="https://datosabiertos.malaga.eu"/>
+  <tag k="source:date" v="2022-02-24"/>
+  <tag k="type" v="import"/>
+</changeset>
+
+  <node id='-102760' lat='36.73165287' lon='-4.36209995'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102761' lat='36.72982675' lon='-4.36159603'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102762' lat='36.73197047' lon='-4.36216634'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102763' lat='36.73147445' lon='-4.3621898'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102764' lat='36.73125143' lon='-4.36216365'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102765' lat='36.7316311' lon='-4.36217941'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102766' lat='36.72892767' lon='-4.35929223'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102767' lat='36.72873176' lon='-4.36065793'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102768' lat='36.73093463' lon='-4.36163828'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102769' lat='36.73023303' lon='-4.36278222'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102770' lat='36.7301191' lon='-4.361821'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102771' lat='36.73094673' lon='-4.35975205'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102772' lat='36.7298203' lon='-4.36178478'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102773' lat='36.72993738' lon='-4.36093606'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102774' lat='36.73052754' lon='-4.36143041'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102775' lat='36.72966686' lon='-4.36280903'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102776' lat='36.73020616' lon='-4.36137844'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102777' lat='36.73092658' lon='-4.35974903'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102778' lat='36.73107274' lon='-4.3618314'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102779' lat='36.73130141' lon='-4.36144517'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102780' lat='36.7292775' lon='-4.3615065'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102781' lat='36.73187025' lon='-4.36156285'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='0.12' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+  <node id='-102782' lat='36.73104852' lon='-4.36135546'>
+    <tag k='amenity' v='waste_disposal' />
+    <tag k='capacity' v='1.1' />
+    <tag k='operator' v='Limasam' />
+    <tag k='operator:type' v='public' />
+    <tag k='waste' v='trash' />
+  </node>
+</osm>

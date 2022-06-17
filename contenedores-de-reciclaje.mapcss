@@ -2,7 +2,7 @@ meta
 {
 	title: "Contenedores de reciclaje";
 	author: "Daniel Capilla"; 
-	version: "1.0_2022-03-21"; 
+	version: "1.1_2022-06-17"; 
 	description: "Tipo de contenedor por material de recogida";
         link: "https://www.openstreetmap.org/user/dcapillae/diary/398842";
 }
@@ -24,7 +24,8 @@ node[recycling:plastic_packaging=yes],
 node[recycling:plastic_bottles=yes],
 node[recycling:cans=yes],
 node[recycling:glass_bottles=yes],
-node[recycling:clothes=yes] 
+node[recycling:clothes=yes],
+node[recycling:organic=yes]  
 {
 	text-color: black; 
 	font-size: 12;
@@ -69,4 +70,9 @@ node[recycling:clothes=yes]
 node[recycling:cooking_oil=yes] 
 {
 	text: eval("Aceite");
+}
+
+node[recycling:organic=yes] 
+{
+	text: eval("Orgánicos");
 }
